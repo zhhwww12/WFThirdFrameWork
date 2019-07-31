@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "WFThirdFrameWork"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "ThirdFrameDemo A tests demo"
 
   # This description is used to generate tags and improve search results.
